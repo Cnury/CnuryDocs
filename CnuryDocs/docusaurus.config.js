@@ -65,7 +65,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'cnury/intro',
+            docId: 'intro',
             position: 'left',
             label: 'Cnury文档',
           },
