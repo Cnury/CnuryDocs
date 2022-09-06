@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Cnury/CnuryDocs/tree/main/CnuryDocs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Cnury/CnuryDocs/tree/main/CnuryDocs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,17 +57,17 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'CnuryDocs - Cnury 文档',
+        title: 'CnuryDocs', 
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Cnury Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'cnury/intro',
             position: 'left',
-            label: 'Docs',
+            label: 'Cnury文档',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
