@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'cnury/intro',
             position: 'left',
-            label: 'Cnury',
+            label: 'Cnury文档',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {

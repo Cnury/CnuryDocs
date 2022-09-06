@@ -2,46 +2,16 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Cnury 社区文档
 
-Let's discover **Docusaurus in less than 5 minutes**.
+此处编写展示 Cnury 社区论坛的相关文档，包括理念、重要公告、须知、使用指南。
 
-## Getting Started
+## 前言
 
-Get started by **creating a new site**.
+Cnury 的论坛程序使用符合现代操作逻辑，所以无需多言，上手即用。  
+社区成员更多的应该是查询细节用法和论坛的编写规范，此帮助文档也会重点展示。
+我们也想让更多人了解 Cnury社区 的设计理念，此文档也会着重描述。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 从何处开始
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+如果想快速上手社区并发出第一个主题帖子，我们推荐阅读
