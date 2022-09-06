@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Cnury/CnuryDocs/',
             label: 'GitHub',
             position: 'right',
           },
@@ -84,30 +84,23 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: '前言',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Cnury 社区',
+                href: 'https://cnury.cn/',
               },
             ],
           },
+/*
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
                 label: 'Blog',
@@ -119,6 +112,7 @@ const config = {
               },
             ],
           },
+*/
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Cnury. All Rights Reserved.`,
       },
