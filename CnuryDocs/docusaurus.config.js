@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Cnury文档',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+//          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Cnury/CnuryDocs/',
             label: 'GitHub',
