@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CnuryDocs - Cnury 文档',
-  tagline: 'Dinosaurs are cool',
+  title: 'CnuryDocs',
+  tagline: 'Cnury 社区文档存放处',
   url: 'https://docs.cnury.cn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
